@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient.csproj", "{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}.Debug|Win32.ActiveCfg = Debug|x86
+		{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}.Debug|x86.ActiveCfg = Debug|x86
+		{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}.Debug|x86.Build.0 = Debug|x86
+		{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}.Release|Mixed Platforms.Build.0 = Release|x86
+		{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}.Release|Win32.ActiveCfg = Release|x86
+		{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}.Release|x86.ActiveCfg = Release|x86
+		{6CEE52AD-D83D-4EB5-A76A-083AE07F02DC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
